@@ -54,5 +54,13 @@
     {
         "package": "pomdpSolve",
         "url": "https://github.com/mhahsler/pomdpSolve"
+    },
+      {
+        "package": "rBLAST",
+        "url": "https://github.com/mhahsler/rBLAST"
+    },
+      {
+        "package": "rMSA",
+        "url": "https://github.com/mhahsler/rMSA"
     }
 ]
