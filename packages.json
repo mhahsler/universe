@@ -1,0 +1,58 @@
+[
+    {
+        "package": "arules",
+        "url": "https://github.com/mhahsler/arules"
+    },
+    {
+        "package": "arulesViz",
+        "url": "https://github.com/mhahsler/arulesViz"
+    },
+    {
+        "package": "arulesCBA",
+        "url": "https://github.com/mhahsler/arulesCBA"
+    },
+    {
+        "package": "arulesNBMiner",
+        "url": "https://github.com/mhahsler/arulesNBMiner"
+    },
+    {
+        "package": "dbscan",
+        "url": "https://github.com/mhahsler/dbscan"
+    },
+    {
+        "package": "seriation",
+        "url": "https://github.com/mhahsler/seriation"
+    },
+    {
+        "package": "TSP",
+        "url": "https://github.com/mhahsler/TSP"
+    },
+    {
+        "package": "qap",
+        "url": "https://github.com/mhahsler/qap"
+    },
+    {
+        "package": "stream",
+        "url": "https://github.com/mhahsler/stream"
+    },
+    {
+        "package": "streamMOA",
+        "url": "https://github.com/mhahsler/streamMOA"
+    },
+    {
+        "package": "rEMM",
+        "url": "https://github.com/mhahsler/rEMM"
+    },
+    {
+        "package": "recommenderlab",
+        "url": "https://github.com/mhahsler/recommenderlab"
+    },
+    {
+        "package": "pomdp",
+        "url": "https://github.com/mhahsler/pomdp"
+    },
+    {
+        "package": "pomdpSolve",
+        "url": "https://github.com/mhahsler/pomdpSolve"
+    }
+]
