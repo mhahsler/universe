@@ -48,6 +48,14 @@
         "url": "https://github.com/mhahsler/recommenderlab"
     },
     {
+        "package": "recommenderlabJester",
+        "url": "https://github.com/mhahsler/recommenderlabJester"
+    },
+    {
+        "package": "recommenderlabBX",
+        "url": "https://github.com/mhahsler/recommenderlabBX"
+    },
+    {
         "package": "pomdp",
         "url": "https://github.com/mhahsler/pomdp"
     },
@@ -55,12 +63,16 @@
         "package": "pomdpSolve",
         "url": "https://github.com/mhahsler/pomdpSolve"
     },
-      {
+    {
         "package": "rBLAST",
         "url": "https://github.com/mhahsler/rBLAST"
     },
-      {
+    {
         "package": "rMSA",
         "url": "https://github.com/mhahsler/rMSA"
+    },
+    {
+        "package": "rRDP",
+        "url": "https://github.com/mhahsler/rRDP"
     }
 ]
