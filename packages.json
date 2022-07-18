@@ -32,6 +32,10 @@
         "url": "https://github.com/mhahsler/qap"
     },
     {
+        "package": "cba",
+        "url": "https://github.com/mhahsler/cba"
+    },
+    {
         "package": "stream",
         "url": "https://github.com/mhahsler/stream"
     },
