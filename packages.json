@@ -16,6 +16,10 @@
         "url": "https://github.com/mhahsler/arulesNBMiner"
     },
     {
+        "package": "arulesSequences",
+        "url": "https://github.com/mhahsler/arulesSequences"
+    },
+    {
         "package": "dbscan",
         "url": "https://github.com/mhahsler/dbscan"
     },
